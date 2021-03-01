@@ -1,10 +1,10 @@
-# Hello!
+# Eyo! What doin'?
 
-## I'm just a Front End Developer with a knowledge of 5+ languages.
-**Bash, C/C++, CSS, HTML, Java, Javascript, NodeJS, [Python](https://www.python.org/), [Ruby](https://www.ruby-lang.org/)**
-
-I create most of my websites with the [EJS](https://ejs.co/) and [Express](http://expressjs.com/) framework in Nodejs and have a basic understanding of most the knowledgable coding languages. Preferably, [javascript](https://javascript.com) is one of my favourite languages since it is event-driven, functional and imperative; but the sad thing is that it runs code from top to bottom. For example, if you put "`while true {}`" on your browser console, you won't be able to do anything (easy fix: restart browser). I also use [electron.js](https://www.electronjs.org/docs/tutorial/quick-start) for making UIs.
-
-My first language was actually batchfile, and I started to teach it in my school during lunchtimes in school. I got really intrigued into making websites and wanted to make my innovative ideas a thing.
-
-# Check out my repositories while you're checking about my profile :D
+## I'm just a Website Developer (mostly backend), knowing over 5 programming languages.
+**Bash, C, HTML, Javascript/Typescript and Python**
+<br/>
+*Some knowledge of Assembly, C# and Java*
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaseProgrammer&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cryptos1337&show_icons=true&theme=radical)]
+# Check out my repositories, I really take lots of effort and put in time into my projecs, hope you like 'em. :)
