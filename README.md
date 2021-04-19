@@ -1,4 +1,4 @@
-# \_cryptos
+# cryptosbyte
 
 ## A Backend Web Developer 
 🧠 **Languages I Know:** Bash, C, NodeJS/TS, Python, Web Designing (HTML, CSS, Vanilla JS) <br/>
